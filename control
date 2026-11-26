@@ -1,0 +1,9 @@
+Package: com.mbucc9000.groupsearch
+Name: GroupSearch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Type a group chat's name in the To: field of a new message and the group shows up in the suggestions. Tap it to add everyone in it. Uses names from GroupChatNameFix.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate
